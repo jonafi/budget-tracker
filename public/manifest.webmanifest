@@ -1,0 +1,21 @@
+{
+  "short_name": "Budget Tracker",
+  "name": "Budget Tracker",
+  "description":"Track and account credit and debits, includes off-line functionality!",
+  "icons": [
+    {
+      "src": "/icons/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/200x200.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#45965a",
+  "display": "standalone",
+  "theme_color": "#808080"
+}
